@@ -30,3 +30,4 @@ public class prime {
         sc.close();
     }
 }
+
